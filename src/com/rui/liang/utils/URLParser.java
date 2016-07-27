@@ -1,15 +1,3 @@
-/*
- * IBM Confidential
- * 
- * OCO Source Materials
- * 
- * 5725-G68
- * 
- * Copyright IBM Corporation 2015. All Rights Reserved.
- * 
- * The source code for this program is not published or otherwise divested of its trade secrets, irrespective of what
- * has been deposited with the U.S. Copyright Office.
- */
 package com.rui.liang.utils;
 
 import java.net.URISyntaxException;
